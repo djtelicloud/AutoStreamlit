@@ -1,93 +1,460 @@
-PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Name,Transported
-0001_01,Europa,False,B/0/P,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Maham Ofracculy,False
-0002_01,Earth,False,F/0/S,TRAPPIST-1e,24.0,False,109.0,9.0,25.0,549.0,44.0,Juanna Vines,True
-0003_01,Europa,False,A/0/S,TRAPPIST-1e,58.0,True,43.0,3576.0,0.0,6715.0,49.0,Altark Susent,False
-0003_02,Europa,False,A/0/S,TRAPPIST-1e,33.0,False,0.0,1283.0,371.0,3329.0,193.0,Solam Susent,False
-0004_01,Earth,False,F/1/S,TRAPPIST-1e,16.0,False,303.0,70.0,151.0,565.0,2.0,Willy Santantines,True
-0005_01,Earth,False,F/0/P,PSO J318.5-22,44.0,False,0.0,483.0,0.0,291.0,0.0,Sandie Hinetthews,True
-0006_01,Earth,False,F/2/S,TRAPPIST-1e,26.0,False,42.0,1539.0,3.0,0.0,0.0,Billex Jacostaffey,True
-0006_02,Earth,True,G/0/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,,Candra Jacostaffey,True
-0007_01,Earth,False,F/3/S,TRAPPIST-1e,35.0,False,0.0,785.0,17.0,216.0,0.0,Andona Beston,True
-0008_01,Europa,True,B/1/P,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,Erraiam Flatic,True
-0008_02,Europa,True,B/1/P,TRAPPIST-1e,34.0,False,0.0,0.0,,0.0,0.0,Altardr Flatic,True
-0008_03,Europa,False,B/1/P,55 Cancri e,45.0,False,39.0,7295.0,589.0,110.0,124.0,Wezena Flatic,True
-0009_01,Mars,False,F/1/P,TRAPPIST-1e,32.0,False,73.0,0.0,1123.0,0.0,113.0,Berers Barne,True
-0010_01,Earth,False,G/1/S,TRAPPIST-1e,48.0,False,719.0,1.0,65.0,0.0,24.0,Reney Baketton,False
-0011_01,Earth,False,F/2/P,TRAPPIST-1e,28.0,False,8.0,974.0,12.0,2.0,7.0,Elle Bertsontry,True
-0012_01,Earth,False,,TRAPPIST-1e,31.0,False,32.0,0.0,876.0,0.0,0.0,Justie Pooles,False
-0014_01,Mars,False,F/3/P,55 Cancri e,27.0,False,1286.0,122.0,,0.0,0.0,Flats Eccle,False
-0015_01,Earth,False,F/4/P,55 Cancri e,24.0,False,0.0,1.0,0.0,0.0,637.0,Carry Hughriend,False
-0016_01,Mars,True,F/5/P,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,Alus Upead,True
-0017_01,Earth,False,G/0/P,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Lyde Brighttt,True
-0017_02,Earth,False,F/6/P,55 Cancri e,14.0,False,412.0,0.0,1.0,0.0,679.0,Philda Brighttt,False
-0020_01,Earth,True,E/0/S,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,Almary Brantuarez,False
-0020_02,Earth,True,E/0/S,55 Cancri e,49.0,False,0.0,0.0,0.0,0.0,0.0,Glendy Brantuarez,False
-0020_03,Earth,True,E/0/S,55 Cancri e,29.0,False,0.0,0.0,,0.0,0.0,Mollen Mcfaddennon,False
-0020_04,Earth,False,E/0/S,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,Breney Jacostanley,True
-0020_05,Earth,True,E/0/S,PSO J318.5-22,1.0,False,,0.0,0.0,0.0,0.0,Mael Brantuarez,False
-0020_06,Earth,False,E/0/S,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,Terta Mcfaddennon,False
-0022_01,Mars,False,D/0/P,TRAPPIST-1e,21.0,False,980.0,2.0,69.0,0.0,0.0,,False
-0024_01,Europa,True,C/2/S,TRAPPIST-1e,62.0,False,0.0,0.0,,0.0,0.0,Penton Fullided,True
-0025_01,Earth,False,F/6/S,TRAPPIST-1e,15.0,False,0.0,225.0,0.0,998.0,0.0,Karard Brookenson,False
-0026_01,Europa,False,C/0/P,55 Cancri e,34.0,False,22.0,6073.0,0.0,1438.0,328.0,Anyoni Unconary,False
-0028_01,Mars,False,F/8/P,TRAPPIST-1e,43.0,False,1125.0,0.0,136.0,48.0,0.0,Ceros Mare,False
-0030_01,Earth,False,G/4/S,TRAPPIST-1e,32.0,False,0.0,850.0,81.0,437.0,453.0,Ginia Morsentley,False
-0031_01,Mars,False,F/9/P,TRAPPIST-1e,47.0,False,214.0,0.0,1411.0,0.0,1229.0,Coobix Datie,True
-0031_02,Mars,False,F/9/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Cinets Datie,True
-0031_03,Mars,False,F/9/P,TRAPPIST-1e,20.0,False,,0.0,1750.0,990.0,0.0,Dontch Datie,True
-0034_01,Europa,True,D/1/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Ziba Oingwhedly,True
-0035_01,Mars,False,D/1/P,55 Cancri e,23.0,False,784.0,964.0,0.0,951.0,0.0,Luse Butte,False
-0036_01,Earth,False,F/8/S,55 Cancri e,15.0,,0.0,492.0,48.0,20.0,401.0,Marina Leodger,False
-0038_01,Earth,False,F/10/S,55 Cancri e,20.0,False,554.0,195.0,0.0,2606.0,0.0,Loise Wheelez,False
-0039_01,Earth,True,G/1/P,55 Cancri e,30.0,False,0.0,0.0,,0.0,0.0,Jorgie Batthewitt,False
-0041_01,Earth,True,G/2/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Margia Moodsey,True
-0043_01,Europa,False,B/3/P,TRAPPIST-1e,45.0,False,0.0,164.0,45.0,2511.0,855.0,Ankalik Cylistrand,False
-0044_01,Earth,True,G/3/P,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,Jodye Coopelandez,False
-0044_02,Earth,True,G/3/P,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,Kayne Coopelandez,True
-0044_03,Earth,True,G/3/P,PSO J318.5-22,21.0,False,0.0,0.0,0.0,0.0,0.0,Cassa Coopelandez,True
-0045_01,Mars,False,F/10/P,TRAPPIST-1e,21.0,False,970.0,0.0,180.0,0.0,64.0,Zelowl Chmad,False
-0045_02,Mars,True,F/10/P,,19.0,False,0.0,0.0,0.0,0.0,0.0,Mass Chmad,True
-0050_01,Earth,False,E/1/S,55 Cancri e,35.0,False,790.0,0.0,0.0,,0.0,Sony Lancis,False
-0051_01,Earth,False,E/2/S,TRAPPIST-1e,56.0,False,0.0,112.0,0.0,1379.0,127.0,Vivia Johnshines,False
-0052_01,Earth,False,G/6/S,TRAPPIST-1e,,False,4.0,0.0,2.0,4683.0,0.0,Elaney Hubbarton,False
-0053_01,Earth,False,F/11/S,TRAPPIST-1e,25.0,False,0.0,0.0,1938.0,0.0,1.0,Elson Hickerson,True
-0056_01,Europa,False,A/1/S,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Okulas Tractive,True
-0056_02,Europa,True,A/1/S,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,Instab Tractive,True
-0056_03,Europa,False,A/1/S,TRAPPIST-1e,27.0,False,279.0,605.0,3374.0,286.0,3.0,Zinoces Tractive,True
-0058_01,Earth,True,G/7/S,PSO J318.5-22,36.0,False,0.0,0.0,0.0,0.0,0.0,Warry Ayalazquez,False
-0061_01,Earth,False,F/12/S,TRAPPIST-1e,22.0,False,45.0,1096.0,148.0,1377.0,1.0,Shanya Salez,False
-0062_01,Earth,False,F/13/S,TRAPPIST-1e,62.0,False,0.0,592.0,0.0,17.0,25.0,Sterry Greeves,False
-0064_01,Mars,True,F/14/S,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,,True
-0064_02,,True,E/3/S,TRAPPIST-1e,33.0,False,0.0,0.0,,0.0,0.0,Colatz Keen,True
-0066_01,Earth,False,G/6/P,TRAPPIST-1e,62.0,False,1.0,153.0,197.0,0.0,460.0,Diandy Pecketton,False
-0067_01,Earth,True,G/10/S,PSO J318.5-22,0.0,False,0.0,0.0,0.0,0.0,0.0,Ninaha Leeves,True
-0067_02,Earth,False,G/10/S,TRAPPIST-1e,18.0,False,1.0,258.0,446.0,0.0,0.0,Celine Leeves,True
-0067_03,Earth,False,F/15/S,55 Cancri e,21.0,False,1946.0,37.0,0.0,0.0,24.0,Velyne Leeves,False
-0068_01,Mars,False,E/4/S,TRAPPIST-1e,,False,793.0,0.0,2.0,253.0,0.0,Cinst Binie,False
-0069_01,Earth,False,F/16/S,TRAPPIST-1e,42.0,False,887.0,0.0,9.0,6.0,0.0,,True
-0070_01,Earth,False,F/13/P,TRAPPIST-1e,19.0,False,190.0,0.0,5.0,1.0,726.0,Meremy Brighttt,False
-0071_01,Earth,False,F/14/P,TRAPPIST-1e,17.0,False,16.0,2165.0,0.0,0.0,52.0,Nelly Dillines,False
-0072_01,Earth,False,F/17/S,TRAPPIST-1e,14.0,False,0.0,1.0,0.0,0.0,1063.0,Thell Brantuarez,False
-0073_01,Mars,False,D/3/P,PSO J318.5-22,37.0,False,46.0,83.0,738.0,0.0,12.0,Gorn Make,False
-0074_01,Europa,False,C/3/S,TRAPPIST-1e,42.0,False,1.0,8397.0,0.0,0.0,506.0,Aldibah Mostedry,True
-0076_01,Mars,False,F/18/S,TRAPPIST-1e,27.0,False,147.0,0.0,1018.0,0.0,0.0,Conk Dal,True
-0077_01,Mars,False,F/15/P,TRAPPIST-1e,28.0,False,14.0,0.0,1295.0,0.0,0.0,Pon Blité,True
-0078_01,Europa,False,C/4/S,TRAPPIST-1e,38.0,False,0.0,5840.0,0.0,321.0,9654.0,Spuri Pokerheed,False
-0081_01,Earth,True,G/13/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Dellie Vinozarks,False
-0082_01,Mars,False,F/16/P,TRAPPIST-1e,42.0,False,7406.0,0.0,0.0,0.0,0.0,Totse Datte,False
-0082_02,Mars,True,F/16/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Eaturs Datte,True
-0082_03,Mars,False,F/16/P,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,,True
-0084_01,Earth,False,G/14/S,TRAPPIST-1e,24.0,False,688.0,0.0,0.0,0.0,17.0,Coren Coopezmaney,True
-0085_01,Europa,True,C/5/S,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Furudah Ellcefulve,True
-0086_01,Earth,False,F/17/P,TRAPPIST-1e,43.0,False,211.0,0.0,0.0,638.0,513.0,Jodye Kinson,False
-0088_01,Mars,True,E/5/S,PSO J318.5-22,45.0,False,0.0,0.0,0.0,0.0,0.0,Stmeal Sacre,True
-0090_01,Earth,True,G/15/S,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Heremy Santry,True
-0091_01,Earth,True,G/16/S,TRAPPIST-1e,26.0,False,,0.0,0.0,0.0,0.0,Deanne Yorkland,True
-0091_02,Earth,False,F/20/S,TRAPPIST-1e,27.0,False,1.0,697.0,31.0,188.0,0.0,Tinez Yorkland,False
-0092_01,Earth,False,G/9/P,TRAPPIST-1e,19.0,False,0.0,0.0,670.0,1.0,34.0,Gracy Dunnisey,False
-0092_02,Earth,True,G/9/P,TRAPPIST-1e,0.0,False,0.0,0.0,,0.0,0.0,Stald Hewson,True
-0092_03,Earth,True,G/9/P,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,Tiney Hewson,True
-0097_01,Europa,False,A/2/S,TRAPPIST-1e,54.0,False,0.0,1208.0,0.0,3.0,637.0,Alchium Fictful,False
-0098_01,Earth,False,G/11/P,TRAPPIST-1e,26.0,False,0.0,856.0,5.0,32.0,0.0,Doria Carezquez,False
-0098_02,Earth,False,G/11/P,TRAPPIST-1e,26.0,False,0.0,2811.0,957.0,0.0,87.0,Leence Carezquez,True
-0099_01,Earth,False,F/19/P,PSO J318.5-22,23.0,False,311.0,427.0,526.0,37.0,0.0,Aliey Leetersoney,False
+Unnamed: 0,index,Insights,Sentiment,OpenAI,Score
+6864,6868,however all pediatrics cns tumors (if biopsy is performed) are getting molecular testing with foundation medicine cdx at diagnosis,Positive,Neutral,0
+3884,3886,tempus is the laboratory of elections for the ngs panel including ntrk 1 2 and,Positive,Neutral,0
+6623,6627,regarding testing updates they now have an in-house sarcoma fusion panel at the university,Positive,Neutral,0
+11218,11226,uncertain what will happen with tak-700 as the program has been closed,Negative,Neutral,0
+1002,1003,however if a psadt is less than 6 months he will consider an agent at that thing,Positive,Neutral,0
+124,124,tnbc) where ntrk testing is not occurring regularly and perhaps shed the light on ntrk tki treatment patterns outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+9780,9788,for bcr study helpful advice to incorporate improved imaging and make it daro monotherapy,Positive,Negative,0
+10252,10260,tl stated they recently started melanoma patient with an ntrk gene fusion on larotrectinib and had to reduce the dose early due aes ie elevated ast alt,Positive,Neutral,0
+334,335,tl reports working with with anzup team to track psma expression in mhspc to define when best to deploy radionuclide therapy in mhspc (he suspects the best time will be at month 6 and it will be in pts with persistent psa and psma pet uptake),Positive,Neutral,0
+2296,2297,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with enough tissue) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+6768,6772,dasl investigator asked if the recent stampede data from esmo in the m0 population would affect the dasl study since the adt alone arm did not perform as well at the arm with abi so would the adt arm in dasl be modified,Negative,Neutral,0
+13098,13107,"DASL investigator asked if the recent STAMPEDE data from ESMO in the M0 population would impact the DASL study since the ADT alone arm did not perform as well at the arm with Abi, so would the ADT arm in DASL be modified.",Negative,Neutral,0
+9771,9779,embark patients have yet to progressed so dont think itll reach interim results by due timeline of sept 202,Positive,Negative,0
+166,166,ntrkers is planning outreach to other cancerous cell patient advocacy groups and i believe this would be another opportunity to spread awareness for ntrk testing (ie,Positive,Neutral,0
+344,345,tl reports working with anzup team to track psma expression in mhspc to define when best to deploy radionuclide treatment in mhspc (he suspects the best time will be at month 6 and it will be in pts with persistent psa and psma pet uptake),Positive,Neutral,0
+9778,9786,for bcr studying advice to incorporate improved imaging and make it daro monotherapy,Positive,Negative,0
+11172,11180,have not opened to recruitment yet as the process remains under review,Neutral,Negative,0
+8536,8542,it is expected to have less brain penetrations,Negative,Neutral,0
+7546,7550,larotrectinib was looked at as a last effort for the patient almost 17 years after the initial diagnosis,Positive,Neutral,0
+11191,11199,s1216 was consistent with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extension to rpfs but was not powered to detect the different in os compared to an active arm (lhrh bicalutamide),Negative,Neutral,0
+2098,2099,tl has a 2nd patient with an ntrk fusion whos case i have been following for over a year patient is a unique case with a fun2-trk2 fusion who has remained without evidence of progression without treatment and gets mris every 6 months,Positive,Negative,0
+10396,10404,we are a top enroller in the embark study and in the single agent enzalutamide arm the patients testosterone goes way up and then there is concern for worsen disease,Negative,Neutral,0
+11693,11702,he suggested bayer should counter this educational gap with the specialized medical community,Positive,Neutral,0
+5,5,discussed data from aacr 2020 re fusions vs non-fusions in answer to a pir,Positive,Neutral,0
+8539,8545,it is expected to have less head penetration,Negative,Neutral,0
+12035,12044,there is a lung oncogene screening program by lead pulmonologist utilizing low dose ct scans,Negative,Neutral,0
+5973,5977,only time will tell of course and my only knock is that these trials are design to win with a lack of crossing over from the control arm,Positive,Negative,0
+4280,4282,receive sarcoma molecule profiling,Positive,Neutral,0
+10209,10217,from an academic medical oncologist it is interesting to me when i look at the ddi account of darolutamide is how different it is to enzalutamide and apulatimide,Positive,Neutral,0
+131,131,tnbc) where ntrk testing is not occurring regularly and perhaps shed light on ntrk tki treatment patterns outside of clinical trials and in the lack of comparative data,Positive,Neutral,0
+11237,11245,tl said that at least of his patients are intolerant or contraindicated for enza apa due to interactions cns aes etc,Positive,Neutral,0
+8786,8792,tl tests all metastatic gi patients consuming ngs to date no patient has presented with an ntrk fusion,Positive,Neutral,0
+11152,11160,lugpa was contacted last year to enroll for step iii trial investigating hc-1119 vs enzalutamide in mcrpc (nct03850795 hinova pharmaceuticals) which is a deuterated form of enzalutamide,Neutral,Negative,0
+2301,2302,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissue) just to get a premature ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+8789,8795,tl tests all metastatic gi patients using ngs to date no patient has presented with an ntrk union,Positive,Neutral,0
+10937,10945,hcp does ngs if there is diagnostic uncertainty super rare relapsed relapse behave different from primary,Positive,Negative,0
+11691,11700,he suggested bayer should counter this instructional gap with the medical community,Positive,Neutral,0
+7711,7715,nubeqa has a much better safety profile as favored to other ar inhibitors due to it low bbb penetration,Positive,Neutral,0
+5974,5978,only time will tell of course and my only knock is that these trials are version to win with a lack of crossover from the control arm,Positive,Negative,0
+332,333,tl reviews working with anzup team to track psma expression in mhspc to define when best to deploy radionuclide therapy in mhspc (he suspects the best time will be at month 6 and it will be in pts with persistent psa and psma pet uptake),Positive,Neutral,0
+7138,7142,the dfci paths adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Negative,Neutral,0
+947,948,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persists or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+2110,2111,tl has a second patient with an ntrk fusion whos case i have been following for over a year patient is a unique case with a fun2-trk2 fusion who has remained without evidence of procession without treatment and gets mris every 6 months,Positive,Negative,0
+4284,4286,receive d012192 molecular profiling,Positive,Negative,0
+6501,6505,s (tx) and a adult d001357 sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumors that he viewed sequencing as only important in advanced stages or where histologically suggestive,Positive,Neutral,0
+4204,4206,had patient who progressed on the enza alone arm whose testosterone went up to and he faster,Neutral,Negative,0
+115,115,tnbc) where ntrk tests is not occurring regularly and perhaps shed light on ntrk tki treatment patterns outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+11168,11176,have not opened to recruitment yet as the protocols remains under review,Neutral,Negative,0
+1351,1352,she is aware of ntrk fusions and relevance to cancerous growth therapy,Positive,Neutral,0
+8795,8801,tl tests all metastatic renal cell carcinoma rcc gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Negative,0
+139,139,when discussing the sabcs data i was trained that ntrkers is not being updated when new data is released published,Positive,Neutral,0
+10395,10403,we are a top enroller in the embark study and in the single agent enzalutamide arm the patients testosterone goes way up and then there is concerned for worsening disease,Negative,Neutral,0
+6515,6519,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumors that he viewed sequencing as only important in advanced stages or where histologically suggestible,Positive,Neutral,0
+1350,1351,she is aware of ntrk fusions and relevance to cancerous tissue therapy,Positive,Neutral,0
+10202,10210,from an academic medical oncologist it is interesting to me when i look at the ddi profile of darolutamide is how different it is to enzalutamide and apulatimide,Positive,Neutral,0
+2291,2292,c mentioned she is using a mix of both f1cdx and caris life scientist for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissue) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+11687,11696,he suggested bayer should counter this educational gap with the medical city,Positive,Neutral,0
+4897,4901,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistance mechanism to prior treatment,Positive,Neutral,0
+1185,1186,tl states that in a msi-high and ntrk fusion crc patient he would decide first line treatment based on the patients specified ability to tolerate an io therapy,Positive,Neutral,0
+952,953,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within just a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+11371,11380,sensitive of ntrk fusions and relevance to cancer therapy,Positive,Neutral,0
+9782,9790,for bcr study advice to integrate improved imaging and make it daro monotherapy,Positive,Negative,0
+10402,10410,we are top enroller in the embark study and single agent enzalutamide arm patients testosterone goes way up then there is concern for worsening disease,Negative,Neutral,0
+11381,11390,aware of ntrk fusions and relevance to oncogene therapy,Positive,Neutral,0
+10207,10215,from an academic medical oncologist it is fascinating to me when i look at the ddi profile of darolutamide is how different it is to enzalutamide and apulatimide,Positive,Neutral,0
+3336,3338,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show potential progression in the brainstem last radiation was in 2018 (no medical treatment was planned at that time),Positive,Negative,0
+3885,3887,tempus is the laboratory of election for the ngs pane including ntrk 1 2 and,Positive,Neutral,0
+3865,3867,provider is currently sprinting ngs for advanced hn cancers and all anaplastic thyroid carcinoma,Positive,Neutral,0
+6052,6056,s1216 was consistent with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extension to rpfs but was not powered to detect the differences in os compared to an active arm (lhrh bicalutamide),Neutral,Negative,0
+336,337,tl reports working with anzup team to keep track of psma expression in mhspc to define when best to deploy radionuclide therapy in mhspc (he suspects the best time will be at month 6 and it will be in pts with persistent psa and psma pet uptake),Positive,Neutral,0
+3886,3888,tempus is the laboratory of election for the ngs panels including ntrk 1 2 and,Positive,Neutral,0
+10403,10411,we are a top enroller in the embark study and in the single agent enzalutamide arm the patients androgenic hormone or testosterone goes way up and then there is concern for worsening disease,Negative,Neutral,0
+2304,2305,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissue) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will match with tissue ngs for treatment decisions,Positive,Neutral,0
+11167,11175,have not opened to recruitments yet as the protocol remains under review,Neutral,Negative,0
+1348,1349,she is aware of ntrk fusions and relevance to malignant cell therapy,Positive,Neutral,0
+10211,10219,from an academic medical oncologist it is interesting to me when look at the ddi profile of darolutamide how different enzalutamide and apulatimide,Positive,Neutral,0
+4896,4900,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistance mechanism to prior therapy,Positive,Neutral,0
+7303,7307,come talk to me when you have a metastatic ovarian serous cystadenocarcinoma indication,Negative,Neutral,0
+7921,7925,us academic site will have trials require psma pet ct,Positive,Negative,0
+13204,13213,"S1216 was consistent with other agents used in mHSPC (enza, apa, abi), the addition of TAK-700 provided an impressive extension to rPFS, but was not powered to detect the difference in OS compared to an active arm (LHRH + bicalutamide). Roughly 11 months benefit is not a small difference, but with patients getting subsequent therapy on both arms, 5 year f/u, and median OS of at least 70 months, the benefit could not be statistically proven. Unclear what will happen with TAK-700 as the program has been closed. It also shows that you can get an extension without the prednisone.",Negative,Neutral,0
+9155,9163,he commented that more testing beyond ngs demands to be discussed,Positive,Neutral,0
+1782,1783,dr matrana stated that while they perform extensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+6510,6514,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumors that he viewed sequencing as only significant in advanced stages or where histologically suggestive,Positive,Neutral,0
+6873,6877,however all pediatric cns tumors (if biopsy is performed) are getting molecule testing with foundation medicine cdx at diagnosis,Positive,Neutral,0
+10210,10218,from an academic medical oncologist it is interesting to me when i look at the ddi accounts of darolutamide is how different it is to enzalutamide and apulatimide,Positive,Neutral,0
+4891,4895,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistant mechanism to prior therapies,Positive,Neutral,0
+11211,11219,roughly 11 months benefit is not a small difference but with patients getting subsequent therapy on both arms 5 year f u and medians os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+1179,1180,tl states that in a msi-high and ntrk fusion crc patient he would decide first line treatment based on the patients perceived ability to tolerate an io therapies,Positive,Neutral,0
+9762,9770,embark patients have yet to progressed so dont think itll reach interims results by expected timeline of sept 202,Positive,Negative,0
+1089,1090,robust molecular testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissue and fluid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+11157,11165,lugpa was contacted last year to enroll for phase iii trial investigating vs enzalutamide in mcrpc hinova pharmaceuticals which is deuterated form of,Neutral,Negative,0
+333,334,tl reports operating with anzup team to track psma expression in mhspc to define when best to deploy radionuclide therapy in mhspc (he suspects the best time will be at month 6 and it will be in pts with persistent psa and psma pet uptake),Positive,Neutral,0
+7139,7143,the dfci pathway adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Negative,Neutral,0
+9783,9791,for bcr study advice to likewise incorporate improved imaging and make it daro monotherapy,Positive,Negative,0
+4892,4896,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistance mechanics to prior therapies,Positive,Neutral,0
+4202,4204,i had a patient who progressed on the enza alone arm whose testosterone went up to 1500 and he progressed much faster,Neutral,Negative,0
+12718,12727,from a academic radiation oncologist it will be interesting to see what happens to the nmcrpc place as the new imaging modalities become the norm,Negative,Neutral,0
+7932,7936,will have imaging for all patients as needed for practice clinical use august september,Positive,Neutral,0
+1779,1780,dr matrana stated that while they enjoy comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+1785,1786,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreas cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+11203,11211,roughly 11 months benefit is not a the smaller difference but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+5042,5046,tl asked about the mechanisms of resistant which was discussed,Positive,Neutral,0
+343,344,tl reports working with anzup team to track psma expression in mhspc to define when best to deploy radionuclide therapies in mhspc (he suspects the best time will be at month 6 and it will be in pts with persistent psa and psma pet uptake),Positive,Neutral,0
+3335,3337,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show potential progression in the brainstem last radiation was in 2018 (no treatment method was planned at that time),Positive,Negative,0
+3882,3884,tempus is the laboratory of election for the ngs panel including ntrk 1 2 and,Positive,Neutral,0
+12468,12477,tl mentioned he incorporates a lot of genomic information in treatment including markers of answer to i-o like tmb and pd-l,Positive,Neutral,0
+4884,4888,he also believes the sequestrations of ntrk fusions in msi-h crc may be a pathway of resistance mechanism to prior therapies,Positive,Neutral,0
+756,757,i wish i could give it in metastatic neuroendocrine carcinomas nec disease (both mcspc and mcrpc),Positive,Neutral,0
+6777,6781,dasl investigator asked if the recent stampede data from esmo in population would impact study since adt alone arm did not perform as well at with abi so be modified,Negative,Neutral,0
+8798,8804,tl tests all metastatic neuroendocrine carcinomas nec gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Neutral,0
+4829,4833,does not have ntrk patient but looking for them,Positive,Neutral,0
+11200,11208,roughly 11 months edge is not a small difference but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+98,98,this could allow for increased consciousness in tumor types (ie,Positive,Neutral,0
+9781,9789,for bcr study tips and advice to incorporate improved imaging and make it daro monotherapy,Positive,Negative,0
+12671,12680,this study will be for dtc patients at institutions who have pulmonary metastates as is where there greatest burden of disease and currently approved through risc gisc with conditions,Positive,Negative,0
+9136,9144,he for that reason is a big proponent on ihc and even though he sends out he has been increase his ntrk testing rate (5 month),Positive,Neutral,0
+1001,1002,however if a psadt is less than 6 a few months he will consider an agent at that point,Positive,Neutral,0
+749,750,i wish i could give it in malignant tissue disease (both mcspc and mcrpc),Positive,Neutral,0
+3883,3885,tempus is the laboratory of selection for the ngs panel including ntrk 1 2 and,Positive,Neutral,0
+1173,1174,tl states that in a msi-high and ntrk fusions crc patient he would decide first line treatment based on the patients perceived ability to tolerate an io therapy,Positive,Neutral,0
+11491,11500,caveat being deciding these patients,Positive,Negative,0
+12471,12480,tl mentioned he incorporates lot of genomic information in treatment including markers response to like tmb and,Positive,Neutral,0
+2288,2289,c mentioned she is sporting a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissue) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+8797,8803,tl tests all metastatic small cell lung cancer sclc gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Neutral,0
+8541,8547,it is because of to have less brain penetration,Negative,Neutral,0
+6614,6618,regarding testing upgrades they now have an in-house sarcoma fusion panel at the institution,Positive,Neutral,0
+1783,1784,dr matrana stated that while they perform comprehensive ngs tests on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+6046,6050,s1216 was consistent with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extensional to rpfs but was not powered to detect the difference in os compared to an active arm (lhrh bicalutamide),Neutral,Negative,0
+10392,10400,we are a top enroller in the embarked study and in the single agent enzalutamide arm the patients testosterone goes way up and then there is concern for worsening disease,Negative,Neutral,0
+1796,1797,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncologies (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+8783,8789,tl tests all metastatic ocular melanoma gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Negative,0
+11165,11173,have not opened to recruitment yet as the protocol remains under review,Neutral,Negative,0
+792,793,he said he can now build a case for potentially using a triple in certain high volume patients,Positive,Neutral,0
+162,162,ntrkers is preparing outreach to other cancer patient advocacy groups and i believe this would be another opportunity to spread awareness for ntrk testing (ie,Positive,Neutral,0
+7145,7149,the dfci pathways adapted adding on abiraterone for the stampede-m0 subpopulation ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Negative,Neutral,0
+1172,1173,tl states that in a msi-high and ntrk fusion crc patient he would decide first line treatment based on the patients perceived ability to tolerate an io therapy,Positive,Neutral,0
+167,167,ntrkers is planning outreach to other cancerous lesion patient advocacy groups and i believe this would be another opportunity to spread awareness for ntrk testing (ie,Positive,Neutral,0
+9765,9773,embark patients have yet to progressed so dont think itll reach interregnum results by expected timeline of sept 202,Positive,Negative,0
+6044,6048,s1216 was consistent with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressiveness extension to rpfs but was not powered to detect the difference in os compared to an active arm (lhrh bicalutamide),Neutral,Negative,0
+4822,4826,he cgp ngs profiles all his patients using caris f1cdx or tempus,Positive,Neutral,0
+9769,9777,embark patients have yet to progressed so dont think itll arrive at interim results by expected timeline of sept 202,Positive,Negative,0
+11142,11150,it is still early days but i would secret that bite technology will be better than radionuclides,Positive,Neutral,0
+292,292,comprehensive ngs profiles all his high grade glioma patients with tempus (rna dna) ngs panel (covers ntrks),Positive,Neutral,0
+9117,9125,tl stated that while he would love to see ngs run on everyone thats not currently the case most spaces and even at his academic institution,Positive,Neutral,0
+6036,6040,s1216 was continuous with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extension to rpfs but was not powered to detect the difference in os compared to an active arm (lhrh bicalutamide),Neutral,Negative,0
+120,120,tnbc) where ntrk testing is not occurring on a regular basis and perhaps shed light on ntrk tki treatment patterns outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+1354,1355,she is aware of ntrk fusions and relevance to cancer prevention therapy,Positive,Neutral,0
+1177,1178,tl states that in a msi-high and ntrk fusion crc patient he would decide first line treatment basis on the patients perceived ability to tolerate an io therapy,Positive,Neutral,0
+2116,2117,tl has second patient with an ntrk fusion whos case have been following for over year is unique who remained without evidence of progression treatment and gets mris every months,Positive,Negative,0
+1793,1794,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through stratum oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+7304,7308,come talk to me when you have a metastatic ovarian clear cell adenocarcinoma indication,Negative,Neutral,0
+11210,11218,roughly 11 months benefit is not a small difference but with patients getting subsequent therapy on both arms 5 year f u and medial os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+1789,1790,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (step iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+949,950,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or raising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+3322,3324,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show potential progressions in the brainstem last radiation was in 2018 (no treatment was planned at that time),Positive,Negative,0
+1780,1781,dr matrana stated that while they perform the comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+1076,1077,robust polymers testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+11188,11196,s1216 was consistent with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extension to rpfs but was not operated to detect the difference in os compared to an active arm (lhrh bicalutamide),Negative,Neutral,0
+11492,11501,caveat being determining these patients,Positive,Negative,0
+4887,4891,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistances mechanism to prior therapies,Positive,Neutral,0
+1085,1086,robust molecular testing in lung cancer at penn remains the same as last discussion all lung patients at prognosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+6612,6616,regarding tests updates they now have an in-house sarcoma fusion panel at the institution,Positive,Neutral,0
+4611,4614,enzalutamide and apalutamide can have beneficial cognitive effects,Positive,Neutral,0
+10241,10249,this is a big point to me because patients are on these ari treatment for a long time,Positive,Neutral,0
+3323,3325,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show potential progression in the brain-stem last radiation was in 2018 (no treatment was planned at that time),Positive,Negative,0
+94,94,this could allow for increased awareness in tumor types ie,Positive,Neutral,0
+10991,10999,tl stated he uses guardant and foundation or tempus concurrently,Positive,Neutral,0
+7525,7529,banana sign is an abnormal shape of the cerebellum due to neural tube defects both lemon and banana signs are associated with spina bifida and chiari malformation type ii gliomatosis grade iii ntrk1 gene fusion positive,Positive,Neutral,0
+4826,4830,he cgp ngs profiles all his patients using caris or tempus,Positive,Neutral,0
+1778,1779,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door stage iii iv for all other cancers through strata oncology dna rna panel they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+1068,1069,therefore ntrki will be preferred in earlier facial lines of therapy for pts harboring ntrk fusions,Positive,Neutral,0
+2113,2114,tl has a second patient with an ntrk fusion whos case i have been following for over a year patient is a unique case with a fun2-trk2 fusion who has remained without evidence of progression without medical treatment and gets mris every 6 months,Positive,Negative,0
+1184,1185,tl states that in a msi-high and ntrk fusion crc patient he would decide first line treatment based on the patients observed ability to tolerate an io therapy,Positive,Neutral,0
+11141,11149,it is stay on early days but i would speculate that bite technology will be better than radionuclides,Positive,Negative,0
+11208,11216,roughly 11 months benefit is not a small difference but with patients getting subsequent therapies on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+955,956,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impact by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+6880,6884,however all pediatric cns tumors (if biopsy is performed) are getting molecular testing with foundation medicine cdx at prognosis,Positive,Neutral,0
+1072,1073,robust molecular testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+2294,2295,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsies (even with sufficient tissue) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+4199,4201,i had a patient who progressed on the enza alone arm who testosterone went up to 1500 and he progressed faster,Neutral,Negative,0
+12458,12467,tl mentioned he incorporates a lot of genomic information in treatment including markers of response to i-o like tmb and pd-l,Positive,Neutral,0
+180,180,ntrkers is planning outreach to other oncogene patient advocacy groups and i believe this would be another opportunity to spread awareness for ntrk testing (ie,Positive,Neutral,0
+4291,4293,receive tumor virus infections molecular profiling,Positive,Negative,0
+6842,6846,she is not convinced to use it previous to current standard of care (which may be curable) in lgg and other pediatric cns tumors,Positive,Negative,0
+10596,10604,a lot of other things to consider when using the competitors (aes ddis elongated use),Positive,Neutral,0
+11229,11237,it also shows that you can get an extension without having the prednisone,Negative,Neutral,0
+6512,6516,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumors that he viewed sequencing as only important in in advance stages or where histologically suggestive,Positive,Neutral,0
+11379,11388,aware of ntrk fusions and relevance to cancer treatment,Positive,Neutral,0
+7141,7145,the dfci pathways adjusted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Negative,Neutral,0
+11225,11233,it also shows that you can get an extension without the prednisone,Negative,Neutral,0
+11166,11174,have not open to recruitment yet as the protocol remains under review,Neutral,Negative,0
+30,30,as the hcp specializes in gi and pancreatic cancer we distributed testing for ntrk fusions and the potential enrichment for ntrk fusions in patients with msi-h tumors,Positive,Neutral,0
+943,944,the dfci pathways adapted adding on abiraterone for the stampede-m0 populations ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+11541,11550,also questioned if bayer has assessed post-progression ngs profiling of gbm patients in the asco cns data and the reasons behind resistance in these patients,Positive,Neutral,0
+1345,1346,she is aware of ntrk fusions and relevance to cancer therapies,Positive,Neutral,0
+12466,12475,tl mentioned he incorporates a lot of genomic information in treatment method including markers of response to i-o like tmb and pd-l,Positive,Neutral,0
+10204,10212,from an academic medical oncologies it is interesting to me when i look at the ddi profile of darolutamide is how different it is to enzalutamide and apulatimide,Positive,Neutral,0
+1183,1184,tl states that in a msi-high and ntrk fusion crc patient he would decide first line treatment based upon on the patients perceived ability to tolerate an io therapy,Positive,Neutral,0
+2817,2819,also inquired if she would consider trk inhibitor over io therapy for patients with ntrk gene fusion,Positive,Negative,0
+11180,11188,s1216 was consistent with other agents used in mhspc (enza apa abi) the additions of tak-700 provided an impressive extension to rpfs but was not powered to detect the difference in os compared to an active arm (lhrh bicalutamide),Negative,Neutral,0
+1005,1006,however if a psadt is less than 6 months he will consider an real estate agent at that point,Positive,Negative,0
+6767,6771,dasl investigator asked if the recent stampede data from esmo in the m0 subpopulation would impact the dasl study since the adt alone arm did not perform as well at the arm with abi so would the adt arm in dasl be modified,Negative,Neutral,0
+9756,9764,embark patients have yet to to progressed so dont think itll reach interim results by expected timeline of sept 202,Positive,Negative,0
+11688,11697,he suggested goldberg should counter this educational gap with the medical community,Positive,Neutral,0
+4196,4198,i had a patient who progressed on the enza alone arm whose testosterones went up to 1500 and he progressed faster,Neutral,Negative,0
+6872,6876,however all pediatric cns tumors (if biopsy is performed) are getting polymers testing with foundation medicine cdx at diagnosis,Positive,Neutral,0
+288,288,comprehensively ngs profiles all his high grade glioma patients with tempus (rna dna) ngs pane (covers ntrks),Positive,Neutral,0
+11925,11934,he has no experience using lu-177 but feels psma pet would be most sensible in the bcr space and also in the nmcrpc space (in looking for oligometastatic disease and using ebrt to treat those lesions),Positive,Neutral,0
+4660,4663,tl stated both are easy to complete,Negative,Neutral,0
+1087,1088,robust molecular testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissued and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+8785,8791,tl tests all metastatic gi patients sporting ngs to date no patient has presented with an ntrk fusion,Positive,Neutral,0
+1075,1076,robust molecule testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+9779,9787,for bcr study advice to incorporate improved imagination and make it daro monotherapy,Positive,Negative,0
+1784,1785,dr matrana stated that while they perform comprehensive ngs evaluating on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+1176,1177,tl states that in a msi-high and ntrk union crc patient he would decide first line treatment based on the patients perceived ability to tolerate an io therapy,Positive,Neutral,0
+2298,2299,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissued) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+9776,9784,for bcr study advice to incorporate improved imagings and make it daro monotherapy,Positive,Negative,0
+13186,13195,"We are a top enroller in the EMBARK study, and in the single agent enzalutamide arm the patients testosterone goes way up, and then there is concern for worsening disease. I had a patient who progressed on the enza alone arm whose testosterone went up to 1500, and he progressed faster. (never tried daro monotherapy) ",Negative,Neutral,0
+11198,11206,roughly 11 conditions benefit is not a small difference but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+4895,4899,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistance mechanism to previous therapies,Positive,Neutral,0
+4657,4660,discussions included ngs evaluating at cu and va,Negative,Neutral,0
+2299,2300,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissues) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+11189,11197,s1216 was consistent with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extension to rpfs but was not powered to detects the difference in os compared to an active arm (lhrh bicalutamide),Negative,Neutral,0
+1073,1074,strong molecular testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+2289,2290,c mentioned she is consuming a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissue) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+9119,9127,tl stated that while he would love to see ngs run on everyone thats not currently the case most areas and even at his academic institution,Positive,Neutral,0
+8787,8793,tl tests all metastatic gi patients using ngs to date no patient has featured with an ntrk fusion,Positive,Negative,0
+1083,1084,robust molecular testing in lung cancer at penn remains the same as last interaction all lung patients at diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+2305,2306,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissue) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+3328,3330,tl has a gbm patient who has been on laro since 31219 and was done well until fall of 2020 they started to show potential progression in the brainstem last radiation was in 2018 (no treatment was planned at that time),Positive,Negative,0
+168,168,ntrkers is planning outreach to other cancer patient advocate groups and i believe this would be another opportunity to spread awareness for ntrk testing (ie,Positive,Neutral,0
+4885,4889,he also believes the sequestration of ntrk fusion in msi-h crc may be a pathway of resistance mechanism to prior therapies,Positive,Neutral,0
+11215,11223,unclear what will happen with tak-700 as the program has been closed,Negative,Neutral,0
+759,760,i wish i could give it in metastatic ovarian clear cell adenocarcinoma disease (both mcspc and mcrpc),Positive,Neutral,0
+164,164,ntrkers is planning reach to other cancer patient advocacy groups and i believe this would be another opportunity to spread awareness for ntrk testing (ie,Positive,Neutral,0
+11921,11930,he has no experience consuming lu-177 but feels psma pet would be most useful in the bcr space and also in the nmcrpc space (in looking for oligometastatic disease and using ebrt to treat those lesions),Positive,Neutral,0
+6077,6081,unclear what will happen with tak-700 as the program has been enclosed,Neutral,Negative,0
+114,114,tnbc where ntrk testing is not occurring regularly and perhaps shed light on ntrk tki treatment patterns outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+11146,11154,lugpa was contacted last year to enrol for phase iii trial investigating hc-1119 vs enzalutamide in mcrpc (nct03850795 hinova pharmaceuticals) which is a deuterated form of enzalutamide,Neutral,Negative,0
+11385,11394,aware of ntrk fusions and relevance to malignant growth therapy,Positive,Neutral,0
+9761,9769,embark patients have yet to progresses so dont think itll reach interim results by expected timeline of sept 202,Positive,Negative,0
+10239,10247,this is a big thing to me because patients are on these ari therapies for a long time,Positive,Neutral,0
+6067,6071,roughly 11 months benefit is not a small difference but with patients getting adhering to therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Neutral,Negative,0
+6775,6779,dasl investigator asked if the recent stampede data from esmo in the m0 population would impact the dasl study since the adt alone arm did not perform as well at the arm with abi so would the adt arm in dasl be adapted,Negative,Neutral,0
+12339,12348,ngs is comprehensive panels 600 genes,Negative,Neutral,0
+6053,6057,s1216 was consistent with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extension to rpfs but was not powered to detect the difference in os by comparison to an active arm (lhrh bicalutamide),Neutral,Negative,0
+11226,11234,it also shows that you can get an extensions without the prednisone,Negative,Neutral,0
+4890,4894,he also believes the sequestration of ntrk fusions in msi-h crc may be a path of resistance mechanism to prior therapies,Positive,Neutral,0
+5945,5949,i think this bodge well for your arasens trial with a better control arm of docetacol adt,Positive,Neutral,0
+7296,7300,come talk to me when you have a metastatic uterine leiomyosarcoma indication,Negative,Neutral,0
+103,103,this could allow for increased awareness in tumor types (ie,Positive,Neutral,0
+6776,6780,dasl investigator asked if the recent stampede data from esmo in the m0 population would impact the dasl study since the adt alone arm did not perform as well at the arm with abi so would the adt arm in dasl be tailored,Negative,Neutral,0
+3326,3328,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show potential progression in the brainstem last irradiation was in 2018 (no treatment was planned at that time),Positive,Negative,0
+9120,9128,tl stated that while he would love to see ngs run on everyone thats not currently the case most places and even at his academic university,Positive,Neutral,0
+2990,2992,tl also mentioned that florida cancer specialists will be opening their central lab does ngs testing and hcps incentivized to use it,Positive,Neutral,0
+4827,4831,he cgp ngs information all his patients using caris f1cdx or tempus,Positive,Neutral,0
+4888,4892,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistance mechanisms to prior therapies,Positive,Neutral,0
+6770,6774,dasl investigator asked if the recent stampede data from esmo in the m0 population would impact the dasl studying since the adt alone arm did not perform as well at the arm with abi so would the adt arm in dasl be modified,Negative,Neutral,0
+9390,9398,at roswell park breast cancer patients typically will get ngs at metastatic recurrence at which point a patient will get rebiopsied and test if there is enough tissue sometimes ngs will be used prior to 1st line (er patients are more likely to get upfront ngs),Positive,Negative,0
+7705,7709,nubeqa has a much better safety profile as opposed to other ar inhibit due to it low bbb penetration,Positive,Neutral,0
+3598,3600,thought we would knocks it out of the park with odenza,Negative,Neutral,0
+10389,10397,we are a top enroller in the embark study and in the singles agent enzalutamide arm the patients testosterone goes way up and then there is concern for worsening disease,Negative,Neutral,0
+12669,12678,this study will be for dtc patients at 6 institutions who have pulmonary metastates (as this is where there is greatest burden of disease) and is currently prescribed through risc gisc with conditions,Positive,Negative,0
+1795,1796,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncologic (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+5448,5452,well sensitive of ntrk fusions and relevance to cancer therapy,Positive,Neutral,0
+9757,9765,embark patients have yet to progressed so dont think itll reach interim results by expected timeline of sept 202,Positive,Negative,0
+11219,11227,unsure what will happen with tak-700 as the program has been closed,Negative,Neutral,0
+6865,6869,however all paediatric cns tumors (if biopsy is performed) are getting molecular testing with foundation medicine cdx at diagnosis,Positive,Neutral,0
+4364,4366,radiation oncologist city metro center,Negative,Neutral,0
+1074,1075,powerful molecular testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+1790,1791,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (phase iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+6506,6510,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumour that he viewed sequencing as only important in advanced stages or where histologically suggestive,Positive,Neutral,0
+11684,11693,he suggested bayer should counter-top this educational gap with the medical community,Positive,Neutral,0
+6087,6091,it also shows that you can get an extensional without the prednisone,Neutral,Negative,0
+4201,4203,i had a patient who progressed on the enza alone arm whose testosterone went up to 1500 and he progressed fast,Neutral,Negative,0
+936,937,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+1335,1336,she is aware of ntrk fusions and relevance to cancer therapy,Positive,Neutral,0
+1181,1182,tl states that in a msi-high and ntrk fusion crc patient he would decide first line treatment method based on the patients perceived ability to tolerate an io therapy,Positive,Neutral,0
+1791,1792,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancerous cell) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+1086,1087,robust molecular testing in lung cancer at penn remains the same as last discussion all lung patients at medical diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+2300,2301,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissue) just to get a early ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+11153,11161,lugpa was contacted last year to enroll for phase iii trial investigate hc-1119 vs enzalutamide in mcrpc (nct03850795 hinova pharmaceuticals) which is a deuterated form of enzalutamide,Neutral,Negative,0
+11209,11217,roughly 11 months benefit is not a small difference but with patients getting subsequent treatment on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+1337,1338,she is sensitive of ntrk fusions and relevance to cancer therapy,Positive,Neutral,0
+286,286,comprehensively ngs profiles all his high grades glioma patients with tempus (rna dna) ngs panel (covers ntrks),Positive,Neutral,0
+999,1000,however if a psadt is less than 6 months he will consider an agent at that position,Positive,Neutral,0
+755,756,i wish i could give it in metastatic small cell lung cancer sclc disease (both mcspc and mcrpc),Positive,Neutral,0
+10244,10252,tl stated they recently started a melanoma patient with an ntrk gene fusions on larotrectinib and had to reduce the dose early on due to aes ie elevated ast alt,Positive,Neutral,0
+11202,11210,roughly 11 months benefit is not a smaller difference but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+10236,10244,this is a big point to me because patients are on these ari therapies for a long time,Positive,Neutral,0
+3887,3889,tempus is the laboratories of election for the ngs panel including ntrk 1 2 and,Positive,Neutral,0
+7013,7017,hcp noted that molecular testing has shifted in lung cancer to testing all patients with foundation medicine cdx at prognosis (vs small panel) they have a key founder of foundation medicine as an on-site expert,Positive,Neutral,0
+7143,7147,the dfci pathways adapted uploading on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Negative,Neutral,0
+9759,9767,embarked patients have yet to progressed so dont think itll reach interim results by expected timeline of sept 202,Positive,Negative,0
+331,332,tl records working with anzup team to track psma expression in mhspc to define when best to deploy radionuclide therapy in mhspc (he suspects the best time will be at month 6 and it will be in pts with persistent psa and psma pet uptake),Positive,Neutral,0
+9156,9164,he commented that more testing beyond ngs requires to be discussed,Positive,Neutral,0
+1781,1782,dr matrana stated that while they perform complete ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+1067,1068,therefore ntrki will be favored in earlier lines of therapy for pts harboring ntrk fusions,Positive,Neutral,0
+4526,4528,dept that had an fusion uterine leiomyosaroma progressed on laro went seli carbozantinib but died shortly there after,Neutral,Negative,0
+7142,7146,the dfci pathways adapted placing on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Negative,Neutral,0
+8550,8556,have not opened to recruitment yet as the protocol is still under review,Negative,Neutral,0
+11170,11178,have not opened to recruit yet as the protocol remains under review,Neutral,Negative,0
+12948,12957,"The DFCI pathways adapted adding on abiraterone for the STAMPEDE-M0 population LN+ on CT scan or 2 of 3 MRI T3/4, PSA > 40, Gl 8 or higher The high risk post RP PSA persist or rising within a yr cohort is not impacted by STAMPEDE Australia, UK, Ireland, Canada will not be able to access abi for M0",Neutral,Negative,0
+7002,7006,hcp noted that polymers testing has shifted in lung cancer to testing all patients with foundation medicine cdx at diagnosis (vs small panel) they have a key founder of foundation medicine as an on-site expert,Positive,Neutral,0
+11199,11207,roughly 11 a few months benefit is not a small difference but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+4894,4898,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistance mechanism to earlier therapies,Positive,Neutral,0
+6516,6520,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumors that he viewed sequencing as only important in advanced stages or where histologically suggestively,Positive,Neutral,0
+123,123,tnbc) where ntrk testing is not occurring regularly and perhaps shed lighting on ntrk tki treatment patterns outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+13181,13190,"From an academic medical oncologist:It is interesting to me when I look at the DDI profile of darolutamide is how different it is to enzalutamide and apulatimide. Now the true value is in the drugs it alters which is less than the other two drugs. It is so easy to see when you compare side to side, it is a no brainer. This is a big point to me because patients are on these ARi therapies for a long long time.",Positive,Neutral,0
+3330,3332,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show potential procession in the brainstem last radiation was in 2018 (no treatment was planned at that time),Positive,Negative,0
+10203,10211,from an academic medical oncologists it is interesting to me when i look at the ddi profile of darolutamide is how different it is to enzalutamide and apulatimide,Positive,Neutral,0
+6763,6767,dasl investigator asked if the recent stampedes data from esmo in the m0 population would impact the dasl study since the adt alone arm did not perform as well at the arm with abi so would the adt arm in dasl be modified,Negative,Neutral,0
+10235,10243,this is a big point to me because patients are on these ari therapies for a long long time,Positive,Neutral,0
+10205,10213,from an academic medical care oncologist it is interesting to me when i look at the ddi profile of darolutamide is how different it is to enzalutamide and apulatimide,Positive,Neutral,0
+11149,11157,lugpa was contacted last year to enroll for phase iii trial investigating hc-1119 vs enzalutamide in mcrpc (nct03850795 hinova pharmaceuticals) which is a deuterated form of enzalutamide,Neutral,Negative,0
+11224,11232,unclear what will come about with tak-700 as the program has been closed,Negative,Neutral,0
+1794,1795,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through stratify oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+6034,6038,s1216 was consistent with other agents used in mhspc enza apa abi the addition of tak-700 provided an impressive extension to rpfs but was not powered to detect the difference in os compared to an active arm lhrh bicalutamide,Neutral,Negative,0
+4195,4197,i had a patient who progressed on the enza alone arm whose testosterone went up to 1500 and he progressed faster,Neutral,Negative,0
+6771,6775,dasl investigator asked if the recent stampede data from esmo in the m0 population would impact the dasl study since the adt alone arm did not perform the as well at the arm with abi so would the adt arm in dasl be modified,Negative,Neutral,0
+10993,11001,tl stated he uses guardant and basic or tempus concurrently,Positive,Neutral,0
+1353,1354,she is aware of ntrk fusions and relevance to malignant tissue therapy,Positive,Neutral,0
+2293,2294,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquefied biopsy (even with sufficient tissue) just to get a rapid ngs resultalso stated she will not completely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+1084,1085,robust molecular testing in lung cancer at penn remains the same as last conversation all lung patients at diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+119,119,tnbc) where ntrk testing is not occurring frequently and perhaps shed light on ntrk tki treatment patterns outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+6066,6070,roughly 11 months benefit is not a small difference but with patients getting pursuing therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Neutral,Negative,0
+6043,6047,s1216 was consistent with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impress extension to rpfs but was not powered to detect the difference in os compared to an active arm (lhrh bicalutamide),Neutral,Negative,0
+11370,11379,informed of ntrk fusions and relevance to cancer therapy,Positive,Neutral,0
+1347,1348,she is aware of ntrk fusions and relevance to oncogene therapy,Positive,Neutral,0
+1798,1799,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancer patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+1349,1350,she is aware of ntrk fusions and relevance to malignant growth therapy,Positive,Neutral,0
+1091,1092,robust molecular testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissue and liquid testing treatment method will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+11205,11213,roughly 11 months benefit is not a small differences but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+3600,3602,theorem we would knock it out of the park with odenza,Negative,Neutral,0
+7147,7151,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or greater the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Negative,Neutral,0
+4886,4890,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathways of resistance mechanism to prior therapies,Positive,Neutral,0
+10394,10402,we are a top enroller in the embark studying and in the single agent enzalutamide arm the patients testosterone goes way up and then there is concern for worsening disease,Negative,Neutral,0
+10593,10601,a lot of other things to consider when using the competitors (aes ddis long use),Positive,Neutral,0
+11383,11392,aware of ntrk fusions and relevance to malignant tissue therapy,Positive,Neutral,0
+11196,11204,around 11 months benefit is not a small difference but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+9784,9792,for bcr study advice to incorporate elevated imaging and make it daro monotherapy,Positive,Negative,0
+12342,12351,ngs is comprehensive panel genes,Negative,Neutral,0
+1187,1188,tl states that in a msi-high and ntrk fusion crc patient he would decide first line treatment based on the patients perceived ability to tolerate an io treatment,Positive,Neutral,0
+11689,11698,he suggested bayer should counter this educative gap with the medical community,Positive,Neutral,0
+1088,1089,robust molecular testing in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissues and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+4002,4004,signal expansion would simplify usage and obviate the need for letter of medical need,Negative,Neutral,0
+3187,3189,he stated he performs cgp ngs on all his advanced metastatic cutaneous squamous cell carcinoma patients using caris f1cdx and has not identified any ntrk f yet,Positive,Negative,0
+97,97,this could allow for increased recognition in tumor types (ie,Positive,Neutral,0
+2103,2104,tl has a second patient with an ntrk fusion whos case i have been following for over a year patient is a uniquest case with a fun2-trk2 fusion who has remained without evidence of progression without treatment and gets mris every 6 months,Positive,Negative,0
+2303,2304,c mentioned she is using a mix of both f1cdx and caris life sciences for her patients cgp needsmore recently she started using guardant 360 liquid biopsy (even with sufficient tissue) just to get a rapid ngs resultalso stated she will not absolutely rely on the liq biopsy ngs and will complement with tissue ngs for treatment decisions,Positive,Neutral,0
+1188,1189,tl states that in a msi-high and ntrk fusion crc patient he would make a decision first line treatment based on the patients perceived ability to tolerate an io therapy,Positive,Neutral,0
+1000,1001,however if psadt is less than months he will consider an agent at that point,Positive,Neutral,0
+1004,1005,however if a psadt is less than 6 months he will consider an brokerage at that point,Positive,Neutral,0
+11223,11231,unclear what will take place with tak-700 as the program has been closed,Negative,Neutral,0
+13215,13224,"He has no experience using Lu-177, but feels PSMA PET would be most useful in the BCR space and also in the nmCRPC space (in looking for oligometastatic disease and using EBRT to treat those lesions).",Positive,Neutral,0
+11222,11230,unclear what will happen with as the program has been closed,Negative,Neutral,0
+8794,8800,tl tests all metastatic uterine leiomyosarcoma gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Neutral,0
+1020,1021,this is an instructional opportunity for bayer especially since nubeqa has demonstrated os benefit,Positive,Neutral,0
+1077,1078,robust molecular tests in lung cancer at penn remains the same as last discussion all lung patients at diagnosis get both tissue and liquid testing treatment will be started based on the results of the liquid biopsy if a marker is detected,Positive,Neutral,0
+6037,6041,s1216 was consistent with other agencies used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extension to rpfs but was not powered to detect the difference in os compared to an active arm (lhrh bicalutamide),Neutral,Negative,0
+12340,12349,ngs is comprehensive panel 600 gene,Negative,Neutral,0
+950,951,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persist or risings within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+11156,11164,lugpa was contacted last year to enroll for stage iii trial investigating hc-1119 vs enzalutamide in mcrpc (nct03850795 hinova pharmaceuticals) which is a deuterated form of enzalutamide,Neutral,Negative,0
+95,95,this could allow for greater awareness in tumor types (ie,Positive,Neutral,0
+5435,5439,dr at duke ngs profiles all her primary cns tumor patients upfront with caris lifesciences,Positive,Neutral,0
+12721,12730,from a academic radiation oncologist it will be intriguing to see what happens to the nmcrpc space as the new imaging modalities become the norm,Negative,Neutral,0
+4283,4285,receive nlm molecular profiling,Positive,Neutral,0
+6503,6507,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a listing of tumors that he viewed sequencing as only important in advanced stages or where histologically suggestive,Positive,Neutral,0
+1344,1345,she is aware of ntrk fusions and relevance to cancer treatment,Positive,Neutral,0
+10397,10405,we are a top enroller in the embark study and in the single agent enzalutamide arm the patients testosterone goes way up and then there is concern for worsens disease,Negative,Neutral,0
+12725,12734,from academic radiation oncologist it will be interesting to see what happens the nmcrpc space as new imaging modalities become norm,Negative,Neutral,0
+3329,3331,tl has a gbm patient who has been on laro since 31219 and was doing your well until fall of 2020 they started to show potential progression in the brainstem last radiation was in 2018 (no treatment was planned at that time),Positive,Negative,0
+11204,11212,roughly 11 months benefit is not a small different but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+11179,11187,s1216 was consistent with other agents used in mhspc (enza apa abi) the additive of tak-700 provided an impressive extension to rpfs but was not powered to detect the difference in os compared to an active arm (lhrh bicalutamide),Negative,Neutral,0
+132,132,tnbc) where ntrk testing is not occurring regularly and perhaps shed light on ntrk tki treatment patterns outside of clinical trials and in the deficiency of comparative data,Positive,Neutral,0
+11154,11162,lugpa was contacted last year to enroll for phase iii trial investigation hc-1119 vs enzalutamide in mcrpc (nct03850795 hinova pharmaceuticals) which is a deuterated form of enzalutamide,Neutral,Negative,0
+7922,7926,us academic site will have trials requesting psma pet ct,Positive,Negative,0
+1346,1347,she is aware of ntrk fusions and relevance to leukemia therapy,Positive,Neutral,0
+3123,3125,darolutamide and triplet in mhspc reinforcements,Positive,Neutral,0
+8788,8794,tl tests all metastatic gi patients using ngs to date no patient has provided with an ntrk fusion,Positive,Negative,0
+6035,6039,s1216 was constant with other agents used in mhspc (enza apa abi) the addition of tak-700 provided an impressive extension to rpfs but was not powered to detect the difference in os compared to an active arm (lhrh bicalutamide),Neutral,Negative,0
+126,126,tnbc) where ntrk testing is not occurring regularly and perhaps shed light on ntrk tki medical treatment patterns outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+9157,9165,he commented that more testing beyond ngs needs to be distributed,Positive,Negative,0
+7920,7924,us academic site will have trials requiring psma pet ct,Positive,Negative,0
+4823,4827,he cgp ngs user profiles all his patients using caris f1cdx or tempus,Positive,Neutral,0
+11683,11692,he suggested bayer should countertop this educational gap with the medical community,Positive,Neutral,0
+12244,12253,laetsch regarding laro treatment inquiries,Negative,Neutral,0
+3334,3336,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show prospective progression in the brainstem last radiation was in 2018 (no treatment was planned at that time),Positive,Negative,0
+11920,11929,he has no experience sporting lu-177 but feels psma pet would be most useful in the bcr space and also in the nmcrpc space (in looking for oligometastatic disease and using ebrt to treat those lesions),Positive,Neutral,0
+133,133,tnbc) where ntrk testing is not occurring regularly and perhaps shed light on ntrk tki treatment patterns outside of clinical trials and in the absence of compare data,Positive,Neutral,0
+8535,8541,it is expected to have less brain penetration,Negative,Neutral,0
+6513,6517,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumors that he viewed sequencing as only important in advanced stage or where histologically suggestive,Positive,Neutral,0
+13203,13212,"LUGPA was contacted last year to enroll for Phase III trial investigating HC-1119 vs enzalutamide in mCRPC (NCT03850795, Hinova pharmaceuticals), which is a deuterated form of enzalutamide. It is expected to have less brain penetration. Have not opened to recruitment yet as the protocol remains under review. Lots of delays.",Neutral,Negative,0
+12467,12476,tl mentioned he incorporates a lot of genomic information in medical treatment including markers of response to i-o like tmb and pd-l,Positive,Neutral,0
+11935,11944,he has no experience using lu-177 but feels psma pet would be most useful in the bcr space and also in the nmcrpc space (in looking for oligometastatic disease and using ebrt to treat those skin lesions),Positive,Neutral,0
+5724,5728,i also stated that the rate of fractures is general to the risk of cancer-related fractures,Positive,Neutral,0
+5970,5974,only time will tell of course and my only knocks is that these trials are design to win with a lack of crossover from the control arm,Positive,Neutral,0
+10401,10409,we are a top enroller in the embark study and in the single agent enzalutamide arm the patients testosterone goes way up and then there is concern for worsening sickness,Negative,Neutral,0
+183,183,tl stated that the tournament with brain tumor patients and ntrk is finding patients with ntrk gene fusions including using the right tests,Negative,Neutral,0
+1787,1788,dr matrana stated that while they perform comprehensive ngs testing on all lung pancreatic cancerous cell patients that walk in the door (stage iii iv for all other cancers) through strata oncology (dna rna panel) they have the ability to run the illumina tso 500 panel at their facility in shreveport lsu,Positive,Neutral,0
+9773,9781,embark patients have yet to progressed so dont consider itll reach interim results by expected timeline of sept 202,Positive,Negative,0
+10992,11000,tl stated he uses guardant and bottom or tempus concurrently,Positive,Neutral,0
+4282,4284,receive sarcoma molecular probabilities,Positive,Negative,0
+9766,9774,embark patients have yet to progressed so dont think itll reach interim final results by expected timeline of sept 202,Positive,Negative,0
+1063,1064,therefore ntrki will be preferred in earlier lines of therapy for pts harbor ntrk fusions,Positive,Neutral,0
+10483,10491,regarding testing hcp mentioned that all cns tumors are tested through cog protocols or bottom medicine,Positive,Neutral,0
+5429,5433,dr m at duke ngs profiles all her major cns tumor patients upfront with caris lifesciences,Positive,Neutral,0
+6761,6765,dasl investigators asked if the recent stampede data from esmo in the m0 population would impact the dasl study since the adt alone arm did not perform as well at the arm with abi so would the adt arm in dasl be modified,Negative,Neutral,0
+6843,6847,she is not convinced to use it prior to recent standard of care (which may be curable) in lgg and other pediatric cns tumors,Positive,Negative,0
+11682,11691,he suggested bayer should counter this educational gap with the medical community,Positive,Neutral,0
+6502,6506,s (tx) and a adult ur2 sarcoma virus expert at mdacc is was stated that since sarcoma is such a collection of tumors that he viewed sequencing as only important in advanced stages or where histologically suggestive,Positive,Neutral,0
+761,762,i wish i could give it in metastatic uterine papillary serous carcinoma disease (both mcspc and mcrpc),Positive,Neutral,0
+6615,6619,regarding testing up-dates they now have an in-house sarcoma fusion panel at the institution,Positive,Neutral,0
+96,96,this could allow for enhanced awareness in tumor types (ie,Positive,Neutral,0
+9772,9780,embark patients have yet to progressed so dont believe itll reach interim results by expected timeline of sept 202,Positive,Negative,0
+3331,3333,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show potential progression in the brainstem last radiation was in 2018 (no treatment was plans at that time),Positive,Negative,0
+11685,11694,he suggested kaiser should counter this educational gap with the medical community,Positive,Neutral,0
+11155,11163,lugpa was contacted last year to enroll for phase iii trial investigating hc-1119 vs enzalutamide in mcrpc (nct03850795 hinova pharmaceutic) which is a deuterated form of enzalutamide,Neutral,Negative,0
+10390,10398,we are a top enroller in the embark study and in the single agent enzalutamide arm the patients testosterones goes way up and then there is concern for worsening disease,Negative,Neutral,0
+4824,4828,he cgp ngs profiles all his patients sporting caris f1cdx or tempus,Positive,Neutral,0
+6430,6434,one hcp imagined to know what attributes of cleveland clinic prevented it from being a priority trial site for bayer so that they may try to rectify any issues and be more attractive for future clinical trials,Positive,Negative,0
+8781,8787,tl testing all metastatic gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Negative,0
+13097,13106,This medical oncologist believes that PSMA PET will shrink the M0 space as it relates to darolutamide use.,Negative,Neutral,0
+3599,3601,thought we would knocker it out of the park with odenza,Negative,Neutral,0
+8780,8786,tl tests all metastatic gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Neutral,0
+6876,6880,however all pediatric cns tumors (if biopsy is performed) are getting molecular testing with basic medicine cdx at diagnosis,Positive,Neutral,0
+4262,4264,this was meeting that included dr,Positive,Negative,0
+9775,9783,for bcr study advice to incorporate improved imaging and make it daro monotherapy,Positive,Negative,0
+8537,8543,it is expected to have less brain interpenetration,Negative,Neutral,0
+11388,11397,aware of ntrk fusions and relevance to cancer prevention therapy,Positive,Neutral,0
+3324,3326,tl has a gbm patient who has been on laro since 31219 and was doing well until fall of 2020 they started to show potential progression in the brainstems last radiation was in 2018 (no treatment was planned at that time),Positive,Negative,0
+128,128,tnbc) where ntrk testing is not occurring regularly and perhaps shed light on ntrk tki treatment styles outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+945,946,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or high the high risk post rp psa persist or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+4883,4887,he also believes the sequestration of ntrk fusions in msi-h crc may be a pathway of resistance mechanism to prior therapies,Positive,Neutral,0
+12462,12471,tl mentioner he incorporates a lot of genomic information in treatment including markers of response to i-o like tmb and pd-l,Positive,Neutral,0
+121,121,tnbc) where ntrk testing is not occurring regularly and mayhap shed light on ntrk tki treatment patterns outside of clinical trials and in the absence of comparative data,Positive,Neutral,0
+766,767,mentioned they reviewer protocol for adtdarolutamide with historical control,Positive,Neutral,0
+107,107,this could allow for increased awareness in neoplasm types (ie,Positive,Neutral,0
+5977,5981,only time will tell of course and my knock is that these trials are design to win with lack crossover from the control arm,Positive,Negative,0
+9767,9775,embark patients have yet to progressed so dont think itll reach interim results by expected outline of sept 202,Positive,Negative,0
+983,984,these patients are on adt and despite a rising psa they are symptomatic so md does not want to the additional financial toxicity and treatment burden that comes with another prescription,Positive,Negative,0
+1341,1342,she is aware of ntrk fusions and relevances to cancer therapy,Positive,Neutral,0
+12338,12347,ngs is comprehensive pane 600 genes,Negative,Neutral,0
+795,796,he said he can now build a case for potentially consuming a triplet in certain high volume patients,Positive,Neutral,0
+4200,4202,i had a patient who progressed on the enza alone arm in whose testosterone went up to 1500 and he progressed faster,Neutral,Negative,0
+9777,9785,for bcr student advice to incorporate improved imaging and make it daro monotherapy,Positive,Negative,0
+6508,6512,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumors that he viewed sequenced as only important in advanced stages or where histologically suggestive,Positive,Neutral,0
+948,949,the dfci pathways adapted adding on abiraterone for the stampede-m0 population ln on ct scan or 2 of 3 mri t3 4 psa 40 gl 8 or higher the high risk post rp psa persisted or rising within a yr cohort is not impacted by stampede australia uk ireland canada will not be able to access abi for m0,Neutral,Negative,0
+11201,11209,roughly 11 months reason is not a small difference but with patients getting subsequent therapy on both arms 5 year f u and median os of at least 70 months the benefit could not be statistically proven,Negative,Neutral,0
+8799,8805,tl tests all metastatic clear cell renal cell carcinoma gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Negative,0
+8793,8799,tl tests all metastatic epithelioid sarcoma gi patients using ngs to date no patient has presented with an ntrk fusion,Positive,Neutral,0
+4278,4280,receive ur2 sarcoma virus molecular profiling,Positive,Negative,0
+4474,4476,if arasens is optimistic i can see it being used in the high volume population because people will want to combine adt ari and chemo all upfront thats where i can see myself using it,Positive,Neutral,0
+4661,4664,tl stated both are easy to finish,Negative,Neutral,0
+8540,8546,it is due to have less brain penetration,Negative,Neutral,0
+12967,12976,Dr Matrana stated that while they perform comprehensive NGS testing on all Lung/Pancreatic cancer patients that walk in the door (stage III/IV for all other cancers) through Strata Oncology (DNA/RNA panel) they have the ability to run the Illumina TSO 500 panel at their facility in Shreveport/LSU. He suggested for Community outreach we sync up with Ochsner/LSU/Tulane for their community outreach citywide events when they start backup post-COVID.,Positive,Neutral,0
+11221,11229,unclear what will happen with tak-700 as the prepare has been closed,Negative,Neutral,0
+6505,6509,s (tx) and a adult sarcoma expert at mdacc is was stated that since sarcoma is such a collection of tumor that he viewed sequencing as only important in advanced stages or where histologically suggestive,Positive,Neutral,0
+11490,11499,clause being identifying these patients,Positive,Negative,0
